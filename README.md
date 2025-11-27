@@ -7,7 +7,7 @@
 ## Clone the source code
 
 ```
-git clone https://github.com/rogerthat8922/portfolio-manager-web-app-.git
+git clone https://github.com/rogerthat8922/portfolio-manager-web-api.git
 ```
 
 
@@ -21,4 +21,5 @@ docker-compose up
 ```
 docker exec -it ibkr bash
 ```
+
 
