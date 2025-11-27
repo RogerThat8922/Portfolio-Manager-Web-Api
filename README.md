@@ -4,6 +4,13 @@
 
 * Docker Desktop - https://www.docker.com/products/docker-desktop/
 
+## Clone the source code
+
+```
+git clone https://github.com/rogerthat8922/portfolio-manager-web-app-.git
+```
+
+
 ## Bring up the container
 ```
 docker-compose up
@@ -14,3 +21,4 @@ docker-compose up
 ```
 docker exec -it ibkr bash
 ```
+
